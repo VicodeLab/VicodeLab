@@ -1,8 +1,13 @@
-# 💫 About Me:
-Hi there! 👋<br>I’m a Systems Engineering student passionate about developing software solutions for both web and mobile platforms. My main focus is Frontend development and design, but I also have experience with databases and cloud services, specifically AWS. I'm currently expanding my skills in backend development to become a more well-rounded developer.<br><br>👯 I’m looking forward to collaborating on exciting projects.<br>✔ Feel free to ask me anything—I’m always happy to help!<br><br>Outside of tech, I love 🚗 driving, 🎮 playing video games, and 📺 watching series.
-- 📫 Reach out to me at: <a href="vicodelab.exe@gmail.com">vicodelab.exe@gmail.com</a>
+<div align="center">
+<h1 align="center">Hola, soy VicodeLab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+</div>
+<img src="https://i.ibb.co/wNwNcmJc/Vicode-Lab.png" alt="Vicode-Lab" border="0">
 
-## 🌐 Check out my Social Media
+# ✨ About Me:
+I’m a Systems Engineering student passionate about developing software solutions for both web and mobile platforms. My main focus is Frontend development and design, but I also have experience with databases and cloud services, specifically AWS. I'm currently expanding my skills in backend development to become a more well-rounded developer.<br><br>👯 I’m looking forward to collaborating on exciting projects.<br>✔ Feel free to ask me anything—I’m always happy to help!<br><br>Outside of tech, I love 🚗 driving, 🎮 playing video games, and 📺 watching series.
+
+
+## 🌐 Socials:
 
 <a href= "https://www.instagram.com/victor_kis/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
@@ -12,6 +17,12 @@ Hi there! 👋<br>I’m a Systems Engineering student passionate about developin
 </a>
 <a href="">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+</a>
+<a href="https://x.com/VicodeLab">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+</a>
+<a href="vicodelab.exe@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
 ## 💻 Tech Stack:
