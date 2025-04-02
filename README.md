@@ -4,7 +4,7 @@
 <img src="https://i.ibb.co/wNwNcmJc/Vicode-Lab.png" alt="Vicode-Lab" border="0">
 
 # ✨ About Me:
-I’m a Systems Engineering student passionate about developing software solutions for both web and mobile platforms. My main focus is Frontend development and design, but I also have experience with databases and cloud services, specifically AWS. I'm currently expanding my skills in backend development to become a more well-rounded developer.<br><br>👯 I’m looking forward to collaborating on exciting projects.<br>✔ Feel free to ask me anything—I’m always happy to help!<br><br>Outside of tech, I love 🚗 driving, 🎮 playing video games, and 📺 watching series.
+I’m a Systems Engineering student passionate about developing software solutions for both web and mobile platforms. My main focus is Frontend development and design, but I also have experience with databases and cloud services, specifically AWS. I'm currently expanding my skills in backend development to become a more well-rounded developer.<br><br>👦🏽 I am looking forward to learning and growing as a developer.<br>✔ Feel free to ask me anything—I’m always happy to help!<br><br>Outside of tech, I love 🚗 driving, 🎮 playing video games, and 📺 watching series.
 
 
 ## 🌐 Socials:
