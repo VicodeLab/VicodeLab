@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy VicodeLab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 </div>
-<img src="https://i.ibb.co/wNwNcmJc/Vicode-Lab.png" alt="Vicode-Lab" border="0">
+<img src="https://i.ibb.co/mFMfRyd6/Vicode-Lab.png" alt="Vicode-Lab" border="0">
 
 # ✨ About Me:
 I’m a Systems Engineering student passionate about developing software solutions for both web and mobile platforms. My main focus is Frontend development and design, but I also have experience with databases and cloud services, specifically AWS. I'm currently expanding my skills in backend development to become a more well-rounded developer.<br><br>👦🏽 I am looking forward to learning and growing as a developer.<br>✔ Feel free to ask me anything—I’m always happy to help!<br><br>Outside of tech, I love 🚗 driving, 🎮 playing video games, and 📺 watching series.
