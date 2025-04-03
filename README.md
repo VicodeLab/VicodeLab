@@ -9,11 +9,11 @@ I’m a Systems Engineering student passionate about developing software solutio
 
 ## 🌐 Socials:
 
-<a href= "https://www.instagram.com/victor_kis/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<a href= "https://www.instagram.com/vicodelab.exe/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt= "Instagram">
 </a>
 <a href="https://www.facebook.com/profile.php?id=61574814125902">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt= "Facebook">
 </a>
 <a href="">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
