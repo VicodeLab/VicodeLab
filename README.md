@@ -15,7 +15,7 @@ I’m a Systems Engineering student passionate about developing software solutio
 <a href="https://www.facebook.com/profile.php?id=61574814125902">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt= "Facebook">
 </a>
-<a href="">
+<a href="www.linkedin.com/in/victor-valdelamar">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
 </a>
 <a href="https://x.com/VicodeLab">
